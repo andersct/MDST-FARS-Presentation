@@ -1,3 +1,5 @@
 data/test/
 data/train/
 data/*submit.csv
+external_data/
+external_data/cbp/
